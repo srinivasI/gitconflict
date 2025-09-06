@@ -5,7 +5,8 @@
       "Version": "v99999987363632:91",
       "Statement": [
         {
-          "Effect": "mainv1-branch",
+          "Effect": "maintessro:
+          -branch",
           "Principal": {
             "Service": "eks.amazonaws.com"
           },
