@@ -2,7 +2,7 @@
     name = "veera-eks-master1"
 
     assume_role_policy = jsonencode({
-      "Version": "v1",
+      "Version": "v999991",
       "Statement": [
         {
           "Effect": "mainv1-branch",
