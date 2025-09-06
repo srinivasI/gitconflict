@@ -5,8 +5,7 @@
       "Version": "V2222",
       "Statement": [
         {
-          "Effect": "maintessro:
-          -branch",
+          "Effect": "main-branch",
           "Principal": {
             "Service": "eks.amazonaws.com"
           },
